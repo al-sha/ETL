@@ -1,1 +1,1 @@
-# ETL ( Extract, transform, load tools)
+# ETL ( Extract, transform and load tools)
